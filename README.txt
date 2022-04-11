@@ -16,6 +16,7 @@ Características:
     -   Munições infinitas
     -   Vida inimigo normal: 10HP
     -   Vida inimgo chefe (boss): 100HP
+    -   Vida player: 100HP
     -   Sua vida é removida 1HP a cada 1 segundo próximo de inimgos normais + quantidade de inimgos próximos
     -   Sua vida é removida 1HP a cada 1 segundo próximo de inimgos boss + quantidade de boss próximos * 2 (2x mais rápido)
     -   A cada "round" a sua vida é regenerada
