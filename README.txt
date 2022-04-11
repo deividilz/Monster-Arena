@@ -2,7 +2,6 @@ Lógica do jogo desenvolvida por: DEIVIDI
 
 Baixar com todos os arquivos para jogar, acesse o repositório: https://github.com/deividilz/Monster-Arena
 
-
 # Como jogar - V: 1.0.0
 
 Movimentação:
